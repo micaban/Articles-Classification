@@ -8,4 +8,4 @@ For thi aim, a DistilBert Transformer was implemented and fine-tuned, making add
   - Modifying the BERT structure by adding an MLP to enable the combination of categorical and numerical features for the final classification.
   - Using SHAP for explainability, to understand why the model is predicting some classes and see if it is possible to improve the performances.
 
-In this repository we can see different notebooks that try to show some of the code used to made the tests.
+In this repository we can see different notebooks that try to show some of the code used to make this tests.
